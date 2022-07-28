@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://GYGUGU.github.io/</loc>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://GYGUGU.github.io/tags/learn/</loc>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://GYGUGU.github.io/tags/markdown/</loc>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://GYGUGU.github.io/posts/</loc>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://GYGUGU.github.io/tags/</loc>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://GYGUGU.github.io/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2022-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://GYGUGU.github.io/authors/</loc>
+  </url><url>
+    <loc>https://GYGUGU.github.io/categories/</loc>
+  </url><url>
+    <loc>https://GYGUGU.github.io/contact/</loc>
+  </url><url>
+    <loc>https://GYGUGU.github.io/projects/</loc>
+  </url><url>
+    <loc>https://GYGUGU.github.io/series/</loc>
+  </url>
+</urlset>
